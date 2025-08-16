@@ -1,3 +1,6 @@
+https://raw.githubusercontent.com/666zmy/MoonTV/refs/heads/main/config.json
+
+
 {
     "cache_time": 9200,
     "api_site": {
